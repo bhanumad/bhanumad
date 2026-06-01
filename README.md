@@ -29,9 +29,7 @@ Production-grade analytics platform for voice AI call data. Built a multi-tenant
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_ECS_Fargate-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
 **Highlights:** Real client data · Multi-tenant architecture · Deployed to production
 
@@ -44,11 +42,14 @@ Production-grade analytics platform for voice AI call data. Built a multi-tenant
 Designed and benchmarked **3 distinct AWS architectures** — serverless, containerised, and hybrid — comparing cost, latency, and scalability at scale.
 
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_ECS_Fargate-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+
 
 **Highlights:** Architecture trade-off analysis · Cost modelling · Performance benchmarks
 
